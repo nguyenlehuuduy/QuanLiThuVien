@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,23,0,0,4,111"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="30" width="290" height="60"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="24" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="cc" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Th&#xf4;ng Tin Chi Ti&#x1ebf;t  : "/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="10" width="270" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="110" width="1120" height="650"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="false"/>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="jPanel3">
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="480" y="5" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+            </Container>
+            <Container class="javax.swing.JPanel" name="jPanel5">
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="20" width="-1" height="390"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+                <Property name="useNullLayout" type="boolean" value="false"/>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel3">
+                  <Properties>
+                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                      <Image iconType="2" name="D:\ApacheNetBean\NetBeansProjects\QuanLiThuVienHocKy2\src\HinhanhThamKhao\Chitietsachjav.png"/>
+                    </Property>
+                    <Property name="opaque" type="boolean" value="true"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="0" y="0" width="1000" height="390"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="430" width="1020" height="840"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea1">
+                  <Properties>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Segoe UI" size="14" style="1"/>
+                    </Property>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="Java l&#xe0; m&#x1ed9;t ng&#xf4;n ng&#x1eef; l&#x1ead;p tr&#xec;nh theo ph&#x1b0;&#x1a1;ng ph&#xe1;p h&#x1b0;&#x1edb;ng &#x111;&#x1ed1;i t&#x1b0;&#x1ee3;ng &#x111;&#x1b0;&#x1ee3;c s&#x1eed; d&#x1ee5;ng ph&#x1ed5; bi&#x1ebf;n nh&#x1ea5;t hi&#x1ec7;n nay. H&#x1ea7;u nh&#x1b0; t&#x1ea5;t c&#x1ea3; c&#xe1;c c&#xf4;ng ty ph&#x1ea7;m &#xa;m&#x1ec1;m trong n&#x1b0;&#x1edb;c v&#xe0; tr&#xea;n th&#x1ebf; gi&#x1edb;i &#x111;&#x1ec1;u s&#x1eed; d&#x1ee5;ng Java nh&#x1b0; l&#xe0; ng&#xf4;n ng&#x1eef; ch&#x1ee7; &#x111;&#x1ea1;o cho vi&#x1ec7;c ph&#xe1;t tri&#x1ec3;n s&#x1ea3;n ph&#x1ea9;m , chi&#x1ebf;n l&#x1b0;&#x1ee3;t c&#x1ee7;a m&#xec;nh .&#xa;Ng&#xf4;n ng&#x1eef; Java cho ph&#xe9;p x&#xe2;y d&#x1ef1;ng d&#x1ec5; d&#xe0;ng v&#xe0; r&#x1ea5;t hi&#x1ec7;u qu&#x1ea3; t&#x1ea5;t c&#x1ea3; c&#xe1;c lo&#x1ea1;i &#x1ee9;ng d&#x1ee5;ng t&#x1eeb; x&#x1eed; l&#xfd; &#x111;&#x1a1;n gi&#x1ea3;n &#x111;&#x1ebf;n giao di&#x1ec7;n tr&#x1ef1;c quan, truy xu&#x1ea5;t &#xa;c&#x1a1; s&#x1edf; d&#x1eef; li&#x1ec7;u .&#x1ee9;ng d&#x1ee5;ng m&#x1ea1;ng, &#x1ee9;ng d&#x1ee5;ng web, &#x1ee9;ng d&#x1ee5;ng tr&#xea;n thi&#x1ebf;t b&#x1ecb; di &#x111;&#x1ed9;ng&#x2026; Ch&#xed;nh v&#xec; th&#x1ebf; m&#xe0; hi&#x1ec7;n nay g&#x1ea7;n nh&#x1b0; t&#x1ea5;t c&#x1ea3; c&#xe1;c c&#x1a1; s&#x1edf; &#x111;&#xe0;o t&#x1ea1;o tin h&#x1ecd;c&#xa;Nh&#x1eb1;m gi&#xfa;p cho sinh vi&#xea;n v&#xe0; c&#xe1;c b&#x1ea1;n &#x111;&#x1ecd;c ti&#x1ebf;p c&#x1ead;n ng&#xf4;n ng&#x1eef; l&#x1ead;p tr&#xec;nh Java m&#x1ed9;t c&#xe1;ch d&#x1ec5; d&#xe0;ng v&#xe0; thu&#x1ead;n l&#x1ee3;i, t&#xe1;c gi&#x1ea3; - TS. Hu&#x1ef3;nh C&#xf4;ng Ph&#xe1;p &#xa;d&#x1ef1;a tr&#xea;n kinh nghi&#x1ec7;m nhi&#x1ec1;u n&#x103;m gi&#x1ea3;ng d&#x1ea1;y t&#x1ea1;i Khoa C&#xf4;ng ngh&#x1ec7; Th&#xf4;ng tin, Tr&#x1b0;&#x1edd;ng &#x110;&#x1ea1;i h&#x1ecd;c B&#xe1;ch Khoa v&#xe0; Tr&#x1b0;&#x1edd;ng Cao &#x111;&#x1eb3;ng C&#xf4;ng ngh&#x1ec7; Th&#xf4;ng tin, &#xa;&#x110;&#x1ea1;i h&#x1ecd;c &#x110;&#xe0; N&#x1eb5;ng.&#x111;&#xe3; bi&#xea;n so&#x1ea1;n v&#xe0; ph&#x1ed1;i h&#x1ee3;p c&#xf9;ng v&#x1edb;i Nh&#xe0; xu&#x1ea5;t b&#x1ea3;n Th&#xf4;ng tin v&#xe0; Truy&#x1ec1;n th&#xf4;ng xu&#x1ea5;t b&#x1ea3;n cu&#x1ed1;n s&#xe1;ch &#x201c;B&#xe0;i t&#x1ead;p l&#x1ead;p tr&#xec;nh Java c&#x1a1; b&#x1ea3;n&#x201d;.&#xa;N&#x1ed9;i dung cu&#x1ed1;n s&#xe1;ch bao g&#x1ed3;m 8 ch&#x1b0;&#x1a1;ng c&#x1ee5; th&#x1ec3; nh&#x1b0; sau: &#xa;&#xa;Ch&#x1b0;&#x1a1;ng 1 - L&#xe0;m quen v&#x1edb;i Java v&#xe0; m&#xf4;i tr&#x1b0;&#x1edd;ng l&#x1ead;p tr&#xec;nh Eclipse: Nh&#x1eb1;m gi&#xfa;p c&#xe1;c b&#x1ea1;n &#x111;&#x1ecd;c l&#xe0;m quen v&#x1edb;i ng&#xf4;n ng&#x1eef; Java, h&#x1b0;&#x1edb;ng d&#x1eab;n c&#xe0;i&#xa;&#x111;&#x1eb7;t b&#x1ed9; JDK v&#xe0; m&#xf4;i tr&#x1b0;&#x1edd;ng l&#x1ead;p tr&#xec;nh Eclipse v&#xe0; m&#x1ed9;t s&#x1ed1; b&#xe0;i t&#x1ead;p nh&#x1eb1;m khai th&#xe1;c v&#xe0; s&#x1eed; d&#x1ee5;ng c&#xe1;c th&#xe0;nh t&#x1ed1; c&#x1a1; b&#x1ea3;n c&#x1ee7;a ng&#xf4;n ng&#x1eef; Java.&#xa;&#xa;Ch&#x1b0;&#x1a1;ng 2 - L&#x1ead;p tr&#xec;nh h&#x1b0;&#x1edb;ng &#x111;&#x1ed1;i t&#x1b0;&#x1ee3;ng v&#x1edb;i Java: T&#x1ead;p h&#x1ee3;p c&#xe1;c d&#x1ea1;ng b&#xe0;i t&#x1ead;p l&#x1ead;p tr&#xec;nh theo h&#x1b0;&#x1edb;ng &#x111;&#x1ed1;i t&#x1b0;&#x1ee3;ng v&#x1edb;i Java.&#xa;&#xa;Ch&#x1b0;&#x1a1;ng 3 - X&#x1eed; l&#xfd; bi&#x1ec7;t l&#x1ec7; (Exception handling): T&#x1ead;p h&#x1ee3;p c&#xe1;c b&#xe0;i t&#x1ead;p v&#x1ec1; x&#x1eed; l&#xfd; l&#x1ed7;i trong th&#x1edd;i gian ch&#x1ea1;y ch&#x1b0;&#x1a1;ng tr&#xec;nh v&#xe0; c&#xe1;c b&#xe0;i t&#x1ead;p ki&#x1ec3;m&#xa;tra l&#x1ed7;i &#x111;&#x1ecb;nh d&#x1ea1;ng chu&#x1ed7;i d&#x1eef; li&#x1ec7;u b&#x1eb1;ng c&#xe1;ch &#xe1;p d&#x1ee5;ng bi&#x1ec3;u th&#x1ee9;c ch&#xed;nh quy.&#xa;&#xa;Ch&#x1b0;&#x1a1;ng 4 - L&#x1ead;p tr&#xec;nh giao di&#x1ec7;n v&#x1edb;i AWT v&#xe0; Swing (GUI Programming): T&#x1ead;p h&#x1ee3;p c&#xe1;c b&#xe0;i t&#x1ead;p t&#x1ea1;o &#x1ee9;ng d&#x1ee5;ng c&#xf3; giao di&#x1ec7;n tr&#x1ef1;c quan s&#x1eed;&#xa;d&#x1ee5;ng c&#xe1;c l&#x1edb;p v&#xe0; interface c&#x1ee7;a 2 g&#xf3;i java.awt v&#xe0; javax.swing.&#xa;&#xa;Ch&#x1b0;&#x1a1;ng 5 - L&#x1ead;p tr&#xec;nh t&#x1ea1;o Applet (Applet Programming): T&#x1ead;p h&#x1ee3;p c&#xe1;c b&#xe0;i t&#x1ead;p v&#x1ec1; ch&#x1b0;&#x1a1;ng tr&#xec;nh Applet, &#x111;a s&#x1ed1; c&#xe1;c b&#xe0;i t&#x1ead;p minh h&#x1ecd;a kh&#x1ea3;&#xa;n&#x103;ng &#x111;&#x1ed3; h&#x1ecd;a c&#x1ee7;a ch&#x1b0;&#x1a1;ng tr&#xec;nh Applet.&#xa;&#xa;Ch&#x1b0;&#x1a1;ng 6 - L&#x1ead;p tr&#xec;nh &#x111;a tuy&#x1ebf;n (Multithreading): T&#x1ead;p h&#x1ee3;p c&#xe1;c b&#xe0;i t&#x1ead;p v&#x1ec1; t&#x1ea1;o ch&#x1b0;&#x1a1;ng tr&#xec;nh &#x111;a tuy&#x1ebf;n trong Java c&#x169;ng nh&#x1b0; &#x1ee9;ng d&#x1ee5;ng&#xa; &#x111;a tuy&#x1ebf;n &#x111;&#x1ec3; gi&#x1ea3;i c&#xe1;c b&#xe0;i to&#xe1;n &#x111;&#x1eb7;c tr&#x1b0;ng.&#xa;&#xa;Ch&#x1b0;&#x1a1;ng 7 - L&#x1ead;p tr&#xec;nh truy xu&#x1ea5;t h&#x1ec7; th&#x1ed1;ng t&#x1ec7;p tin (IO Stream): T&#x1ead;p h&#x1ee3;p c&#xe1;c b&#xe0;i t&#x1ead;p cho ph&#xe9;p thao t&#xe1;c v&#x1edb;i h&#x1ec7; th&#x1ed1;ng t&#x1ec7;p tin v&#xe0;&#xa; th&#x1b0; m&#x1ee5;c c&#x169;ng nh&#x1b0; truy xu&#x1ea5;t &#x111;&#x1ecd;c v&#xe0; ghi l&#xea;n t&#x1ec7;p tin.&#xa;&#xa;Ch&#x1b0;&#x1a1;ng 8 - L&#x1ead;p tr&#xec;nh truy xu&#x1ea5;t c&#x1a1; s&#x1edf; d&#x1eef; li&#x1ec7;u (JDBC): T&#x1ead;p h&#x1ee3;p c&#xe1;c b&#xe0;i t&#x1ead;p v&#x1ec1; truy xu&#x1ea5;t th&#xf4;ng tin c&#x1ea5;u tr&#xfa;c c&#x1ee7;a c&#x1a1; s&#x1edf; d&#x1eef; li&#x1ec7;u c&#x169;ng nh&#x1b0; &#xa;c&#xe1;c b&#xe0;i t&#x1ead;p truy v&#x1ea5;n v&#xe0; c&#x1ead;p nh&#x1ead;t c&#x1a1; s&#x1edf; d&#x1eef; li&#x1ec7;u b&#x1eb1;ng Java.&#xa;&#xa;Cu&#x1ed1;n s&#xe1;ch &#x111;&#x1b0;&#x1ee3;c so&#x1ea1;n th&#x1ea3;o r&#x1ea5;t c&#xf4;ng phu v&#x1edb;i t&#x1ead;p h&#x1ee3;p nhi&#x1ec1;u d&#x1ea1;ng b&#xe0;i t&#x1ead;p &#x111;a d&#x1ea1;ng nh&#x1eb1;m x&#x1eed; l&#xfd; c&#xe1;c v&#x1ea5;n &#x111;&#x1ec1; th&#x1b0;&#x1edd;ng g&#x1eb7;p trong l&#x1ead;p tr&#xec;nh. &#xa;M&#x1ed7;i b&#xe0;i t&#x1ead;p &#x111;&#x1b0;&#x1ee3;c nghi&#xea;n c&#x1ee9;u v&#xe0; so&#x1ea1;n th&#x1ea3;o v&#x1eeb;a mang t&#xed;nh khai th&#xe1;c c&#xe1;c t&#xed;nh n&#x103;ng c&#x1ee7;a Java v&#x1eeb;a t&#x1ea1;o ra nh&#x1eef;ng m&#x1ea3;nh gh&#xe9;p nh&#x1ecf; &#x111;&#x1ec3; x&#xe2;y d&#x1ef1;ng &#xa;c&#xe1;c &#x1ee9;ng d&#x1ee5;ng ph&#x1ea7;n m&#x1ec1;m l&#x1edb;n. M&#x1ed7;i ch&#x1b0;&#x1a1;ng &#x111;&#x1b0;&#x1ee3;c so&#x1ea1;n th&#x1ea3;o g&#x1ed3;m 3 ph&#x1ea7;n: T&#xf3;m t&#x1eaf;t l&#xfd; thuy&#x1ebf;t, b&#xe0;i t&#x1ead;p th&#x1ef1;c h&#xe0;nh m&#x1eab;u v&#xe0; b&#xe0;i t&#x1ead;p t&#x1ef1; gi&#x1ea3;i. &#xa;Ph&#x1ea7;n t&#xf3;m t&#x1eaf;t l&#xfd; thuy&#x1ebf;t tr&#xec;nh b&#xe0;y ng&#x1eaf;n g&#x1ecd;n n&#x1ed9;i dung tr&#x1ecd;ng t&#xe2;m c&#x1ee7;a l&#xfd; thuy&#x1ebf;t li&#xea;n quan; Ph&#x1ea7;n b&#xe0;i t&#x1ead;p th&#x1ef1;c h&#xe0;nh m&#x1eab;u g&#x1ed3;m t&#x1ead;p h&#x1ee3;p c&#xe1;c &#xa;b&#xe0;i t&#x1ead;p b&#xe1;m s&#xe1;t n&#x1ed9;i dung l&#xfd; thuy&#x1ebf;t c&#x1ee7;a t&#x1eeb;ng ch&#x1b0;&#x1a1;ng. C&#xe1;c b&#xe0;i t&#x1ead;p &#x1edf; ph&#x1ea7;n n&#xe0;y &#x111;&#x1b0;&#x1ee3;c gi&#x1ea3;i r&#x1ea5;t c&#x1ea9;n th&#x1ead;n, c&#xf3; ch&#xfa; th&#xed;ch r&#xf5; r&#xe0;ng, &#x111;&#xe3; &#x111;&#x1b0;&#x1ee3;c ch&#x1ea1;y&#xa; th&#x1ef1;c nghi&#x1ec7;m tr&#xea;n m&#xe1;y t&#xed;nh v&#xe0; c&#xf3; k&#x1ebf;t qu&#x1ea3; ch&#x1b0;&#x1a1;ng tr&#xec;nh minh h&#x1ecd;a &#x111;i k&#xe8;m; Ph&#x1ea7;n b&#xe0;i t&#x1ead;p t&#x1ef1; gi&#x1ea3;i g&#x1ed3;m t&#x1ead;p h&#x1ee3;p c&#xe1;c b&#xe0;i t&#x1ead;p nh&#x1eb1;m gi&#xfa;p cho c&#xe1;c&#xa; b&#x1ea1;n &#x111;&#x1ecd;c v&#x1ead;n d&#x1ee5;ng th&#x1ef1;c t&#x1ebf; l&#xfd; thuy&#x1ebf;t v&#xe0; c&#xe1;c b&#xe0;i t&#x1ead;p &#x1edf; ph&#x1ea7;n b&#xe0;i th&#x1ef1;c h&#xe0;nh m&#x1eab;u. "/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="523" y="370" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="14" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Quay L&#x1ea1;i"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="780" y="20" width="200" height="37"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
